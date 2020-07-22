@@ -1,0 +1,26 @@
+p{
+  color: blue;
+}
+
+.db-row {
+  margin-bottom: 10px;
+}
+
+
+@media screen and (max-width: 500px){
+  p{
+    color: red
+  }
+}
+/*We dont have anymore after bootstrap*/
+/*
+.box{
+  border:1px solid black;
+  min-height: 10px;
+}
+
+#box-1{
+  background-color: black;
+  color: white;
+}
+*/
